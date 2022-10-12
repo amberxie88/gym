@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+data/
+*.pyc
+gym.egg-info
+__pycache__
