@@ -1,6 +1,6 @@
 Intrinsic Reward Matching (IRM): Fork of OpenAI Gym
 **********
-This is our fork of OpenAI Gym for [Intrinsic Reward Matching](https://github.com/ademiadeniji/irm). We use the `fetch_push`, `fetch_barrier`  and `fetch_reach` environments as implemented here.
+This is our fork of OpenAI Gym for [Intrinsic Reward Matching](https://github.com/ademiadeniji/irm). We use the `fetch_push`, `fetch_barrier`, `fetch_barrier2`  and `fetch_reach` environments as implemented here.
 
 **OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.** This is the ``gym`` open-source library, which gives you access to a standardized set of environments.
 

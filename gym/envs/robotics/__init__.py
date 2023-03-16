@@ -12,6 +12,7 @@ from gym.envs.robotics.fetch.pick_and_place_pos_servo import FetchPickAndPlacePo
 from gym.envs.robotics.fetch.push import FetchPushEnv
 from gym.envs.robotics.fetch.push_primitives import FetchPushPrimitivesEnv
 from gym.envs.robotics.fetch.push_barrier import FetchBarrierPrimitivesEnv
+from gym.envs.robotics.fetch.push_barrier2 import FetchBarrier2PrimitivesEnv
 from gym.envs.robotics.fetch.multi_push_primitives import MultiPushPrimitivesEnv
 from gym.envs.robotics.fetch.multi_push_cage_primitives import MultiPushCagePrimitivesEnv
 
